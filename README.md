@@ -6,7 +6,11 @@ and sends a mouse click to shoot the enemey
 <details>
 <summary>Demo</summary>
  
-![Alt Text](./output/6A8B7CEF-868D-4DA1-BFBF-CDD3F0DEA4C5.GIF)
+ ![Alt Text](./output/EDA2EB99-9BD7-4E3C-9062-AD0906B7E8B4.GIF)
+ 
+ ![Alt Text](./output/6A8B7CEF-868D-4DA1-BFBF-CDD3F0DEA4C5.GIF)
+
+ ![Alt Text](./output/CF8381D8-7E6B-40B0-8F75-E3DB19ECA904.GIF)
  
 </details>
 
