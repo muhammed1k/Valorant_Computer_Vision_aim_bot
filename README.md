@@ -5,5 +5,5 @@ and sends a mouse click to shoot the enemey
 
 <details>
 <summary>Demo</summary>
-  
-<details>
+  sdasd
+</details>
