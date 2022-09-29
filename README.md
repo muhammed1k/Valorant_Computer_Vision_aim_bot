@@ -10,7 +10,7 @@ and sends a mouse click to shoot the enemey
  
  ![Alt Text](./output/ezgif-1-1baff66dc7.gif)
 
- ![Alt Text](./output/CF8381D8-7E6B-40B0-8F75-E3DB19ECA904.GIF)
+ ![Alt Text](./output/2-5d2377f984.gif)
  
 </details>
 
