@@ -24,7 +24,7 @@ and sends a mouse click to shoot the enemey
   
    - training was done for 5 epochs on google collab and best weights are later used to detect enemeis in game
   
-    - !python train.py --img 640 --batch 16 --epochs 5 --data valorant.yaml --weights yolov5s.pt
+     python train.py --img 640 --batch 16 --epochs 5 --data valorant.yaml --weights yolov5s.pt
 </details>
 
 <details>
