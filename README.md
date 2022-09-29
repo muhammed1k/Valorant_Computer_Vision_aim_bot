@@ -9,9 +9,11 @@ and sends a mouse click to shoot the enemey
 </details>
 
 <details>
-<summary>Custom Data</summary>
-3K data were gathered from valorant clips and gameplays, using scutti you can convert videos into frames or capture screen shots at intervals while playing 
-[scutti](https://github.com/heartexlabs/labelImg)
+<summary>Custom_data</summary>
+
+3K data were gathered from valorant clips and gameplays, using scutti you can convert videos into frames or capture screen shots at intervals while playing  [SCUTTI](https://github.com/TrevorSatori/Scutti)
+
+
 </details>
 
 <details>
@@ -22,18 +24,4 @@ and sends a mouse click to shoot the enemey
 <details>
 <summary>aim_bot.py</summary>
   
-</details>
-<details>
-<summary>Custom Data</summary>
-
-3K data were gathered from valorant clips and gameplays, using scutti you can convert videos into frames or capture screen shots at intervals while playing [scutti](https://github.com/ultralytics/yolov5/blob/master/data/scripts/get_coco.sh](https://github.com/heartexlabs/labelImg)
-
-</details>
-
-<details>
-<summary>Training</summary>
-
-The commands below reproduce YOLOv5 [SCUTTI](https://github.com/TrevorSatori/Scutti)
-
-
 </details>
