@@ -20,11 +20,11 @@ and sends a mouse click to shoot the enemey
 <details>
 <summary>Transfer Learning</summary>
   
-     - training was done on yolov5 using yolov5s.pt pretrained weights with custom the dataset created and custom yaml file.
+   - training was done on yolov5 using yolov5s.pt pretrained weights with custom the dataset created and custom yaml file.
   
    - training was done for 5 epochs on google collab and best weights are later used to detect enemeis in game
   
-   - !python train.py --img 640 --batch 16 --epochs 5 --data valorant.yaml --weights yolov5s.pt
+    - !python train.py --img 640 --batch 16 --epochs 5 --data valorant.yaml --weights yolov5s.pt
 </details>
 
 <details>
