@@ -19,7 +19,8 @@ and sends a mouse click to shoot the enemey
 
 <details>
 <summary>Transfer Learning</summary>
-   -  training was done on yolov5 using yolov5s.pt pretrained weights with custom the dataset created and custom yaml file.
+  
+     - training was done on yolov5 using yolov5s.pt pretrained weights with custom the dataset created and custom yaml file.
   
    - training was done for 5 epochs on google collab and best weights are later used to detect enemeis in game
   
@@ -28,9 +29,14 @@ and sends a mouse click to shoot the enemey
 
 <details>
 <summary>aim_bot.py</summary>
+  
    - mss is used to grab a live feed of computer screen 
+  
    - loading live capture frames into cv2 and modeling the frames to get predictions
+  
    - if enemeies are detected in the frame calculate enemey head position
+  
    - move curosor and perform mouse click to kill the enemey
+  
   
 </details>
