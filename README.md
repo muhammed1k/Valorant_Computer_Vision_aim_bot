@@ -31,4 +31,4 @@ and sends a mouse click to shoot the enemey
 </details>
 
 
-[scutti](https://github.com/ultralytics/yolov5/blob/master/data/scripts/get_coco.sh](https://github.com/heartexlabs/labelImg)
+[SS](https://github.com/ultralytics/yolov5/blob/master/data/scripts/get_coco.sh](https://github.com/heartexlabs/labelImg)
