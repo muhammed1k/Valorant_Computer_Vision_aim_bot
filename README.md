@@ -11,8 +11,9 @@ and sends a mouse click to shoot the enemey
 <details>
 <summary>Custom_data</summary>
 
-3K data were gathered from valorant clips and gameplays, using scutti you can convert videos into frames or capture screen shots at intervals while playing  [SCUTTI](https://github.com/TrevorSatori/Scutti)
+- 3K data were gathered from valorant clips and gameplays, using scutti you can convert videos into frames or capture screen shots at intervals while playing  [SCUTTI](https://github.com/TrevorSatori/Scutti)
 
+- images was then labeled using pyImgLabel which creates BB txt files and suitable for yolo format [LblIMG](https://github.com/luishengjie/pyImgLabel)
 
 </details>
 
