@@ -29,6 +29,5 @@ and sends a mouse click to shoot the enemey
 3K data were gathered from valorant clips and gameplays, using scutti you can convert videos into frames or capture screen shots at intervals while playing [scutti](https://github.com/ultralytics/yolov5/blob/master/data/scripts/get_coco.sh](https://github.com/heartexlabs/labelImg)
 
 </details>
-
-
-[SS](https://github.com/ultralytics/yolov5/blob/master/data/scripts/get_coco.sh](https://github.com/heartexlabs/labelImg)
+[
+https://github.com/ultralytics/yolov5/blob/master/data/scripts/get_coco.sh](https://github.com/heartexlabs/labelImg](url)
