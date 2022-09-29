@@ -11,7 +11,7 @@ and sends a mouse click to shoot the enemey
 <details>
 <summary>Custom Data</summary>
 3K data were gathered from valorant clips and gameplays, using scutti you can convert videos into frames or capture screen shots at intervals while playing 
-[scutti]https://github.com/heartexlabs/labelImg
+[scutti](https://github.com/heartexlabs/labelImg)
 </details>
 
 <details>
