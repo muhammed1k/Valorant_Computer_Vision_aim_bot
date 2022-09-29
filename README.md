@@ -5,8 +5,7 @@ and sends a mouse click to shoot the enemey
 
 <details>
 <summary>Demo</summary>
-  **Expected Output:**  
-![](./output/6A8B7CEF-868D-4DA1-BFBF-CDD3F0DEA4C5.GIF)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 </details>
 
 <details>
